@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @mrgs22
-- 👀 I’m interested in video games 
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on something
-- 📫 How to reach me talking
+The formating of this project will fall under several different categories
 
-<!---
-mrgs22/mrgs22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Sections
+--------------
+-Blender
+-script
+-storage
+
+the script will take in from the storage which will be initilized by blender to be able to edit the blender script which will inturn change blender for more detailed information visit the google docs form posted below
+
+https://docs.google.com/document/d/1ImnlH_7xuu3sRcJhdlyvE7_cY3EdcPi6jgG4AJHfpwE/edit?usp=sharing
+
+Thanks and hope you have a nice time using the tool:)
+---------------
+
